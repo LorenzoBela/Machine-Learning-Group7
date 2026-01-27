@@ -1,0 +1,7 @@
+Data Quality Report
+Total samples: 60000
+Valid samples: 60000
+Invalid samples: 0
+
+Issues detected:
+  No issues detected
