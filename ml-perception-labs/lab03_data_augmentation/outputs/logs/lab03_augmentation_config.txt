@@ -1,0 +1,17 @@
+Augmentation Configuration Summary
+
+List of augmentations used:
+1. Random Horizontal Flip
+2. Random Rotation
+3. Random Crop with Padding
+4. Color Jitter
+5. Random Grayscale
+
+Parameters:
+- Rotation angle range: ±15 degrees
+- Crop size: 32x32
+- Padding: 4 pixels
+- Flip probability: 0.5
+- Color jitter brightness: 0.2
+- Color jitter contrast: 0.2
+- Grayscale probability: 0.1
