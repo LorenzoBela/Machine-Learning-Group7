@@ -1,5 +1,10 @@
-*.tar.gz
+# Ignore Lab 04 dataset files
+ml-perception-labs/lab04_eda_bias/data/
+
+# Ignore markdown and zip files
+*.md
 *.zip
-*.venv
-*.vscode
-*.npy
+
+# Ignore local environment and GitHub config folder
+.venv/
+.github/
