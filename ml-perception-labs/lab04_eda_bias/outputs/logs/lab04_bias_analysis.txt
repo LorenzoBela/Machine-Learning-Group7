@@ -1,0 +1,11 @@
+Lab 04 - Bias Identification and Interpretation
+
+Bias 1: Class imbalance bias
+Cause: Class counts vary (max/min ratio = 1.00).
+Impact: Model may favor majority classes and miss minority classes.
+Mitigation: Use class weights or balanced sampling.
+
+Bias 2: Background/context bias
+Cause: Images in a class can share similar backgrounds or capture settings.
+Impact: Model may learn context cues instead of object features.
+Mitigation: Use stronger augmentation and collect more varied backgrounds.

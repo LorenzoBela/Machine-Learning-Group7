@@ -1,0 +1,6 @@
+Lab 04 - Structural Dataset Analysis
+Checked samples: 200
+Image shape: (640, 480, 3)
+Channels: 3
+Pixel value range: [0, 255]
+Dropped due to shape mismatch: 0
