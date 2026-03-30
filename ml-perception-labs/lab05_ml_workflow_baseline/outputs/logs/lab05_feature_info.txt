@@ -1,0 +1,8 @@
+Lab 05 - Feature Extraction Info
+Image size: 128x128
+Feature vector length: 49152
+Data type (raw): float64
+Data range (raw): [0.0, 1.0]
+Data type (scaled): float64
+Data range (scaled): [-4.2926, 2.8600]
+Preprocessing: Normalize to [0,1] then StandardScaler
