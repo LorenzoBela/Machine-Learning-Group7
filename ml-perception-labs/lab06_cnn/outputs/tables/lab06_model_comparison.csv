@@ -1,0 +1,4 @@
+Model,Parameters,Best Val Acc,Test Accuracy
+ShallowCNN,"4,215,237",0.8919,0.9737
+RegularizedCNN,"4,291,077",0.9459,0.9737
+DeepCNN,"1,201,445",0.9730,0.9474
