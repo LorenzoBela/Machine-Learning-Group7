@@ -1,5 +1,0 @@
-Model,Parameters,Best Val Acc,Test Accuracy
-EfficientDetLite0,"3,377,413",0.4595,0.5526
-MobileNetV2,"2,230,277",0.8919,0.7368
-YOLOv8Nano,"3,011,807",0.7838,0.7632
-YOLOv10Nano,"2,708,974",0.2432,0.2632

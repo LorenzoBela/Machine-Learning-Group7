@@ -1,0 +1,5 @@
+Model,Test Accuracy,Precision (macro),Recall (macro),F1-Score (macro),Training Time (s),Parameters (#),Best Val Accuracy,Overfitting (Y/N)
+EfficientDetLite0,0.5263,0.4901,0.4909,0.4768,554.6,"3,377,413",0.6216,N
+MobileNetV2,0.5789,0.5828,0.5709,0.5429,513.9,"2,230,277",0.8108,N
+YOLOv8Nano,0.3684,0.4633,0.3764,0.3574,417.0,"3,011,807",0.5946,Y
+YOLOv10Nano,0.2895,0.1273,0.24,0.143,440.4,"2,708,974",0.3784,N
