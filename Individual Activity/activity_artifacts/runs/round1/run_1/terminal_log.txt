@@ -1,0 +1,11 @@
+========================================================================================
+Running 1
+Config: {'run_id': '1', 'freeze_backbone': True, 'dropout': 0.2, 'learning_rate': 1e-05, 'batch_size': 64, 'epochs': 2, 'optimizer': 'adam', 'scheduler': None, 'train_size': 5000, 'use_augmentation': False}
+ Epoch  TrainLoss  TrainAcc   ValLoss   ValAcc     Time
+--------------------------------------------------------
+     1     2.3265    14.40%    2.2333   18.40%     5.0s
+     2     2.2174    18.69%    2.1225   24.60%     4.8s
+--------------------------------------------------------
+Training time : 9.8 seconds
+TEST accuracy : 24.66%
+UNDERFITTING warning: final train acc is below 50%

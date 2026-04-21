@@ -1,0 +1,109 @@
+{
+  "notebook": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\Lab07_ModelComparison.ipynb",
+  "created_utc": "2026-04-19T11:11:53.709729+00:00",
+  "code_cells_exported": 17,
+  "items": [
+    {
+      "code_cell_number": 1,
+      "notebook_cell_number": 2,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_001\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_001\\output.png"
+    },
+    {
+      "code_cell_number": 2,
+      "notebook_cell_number": 3,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_002\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_002\\output.png"
+    },
+    {
+      "code_cell_number": 3,
+      "notebook_cell_number": 4,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_003\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_003\\output.png"
+    },
+    {
+      "code_cell_number": 4,
+      "notebook_cell_number": 6,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_004\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_004\\output.png"
+    },
+    {
+      "code_cell_number": 5,
+      "notebook_cell_number": 7,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_005\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_005\\output.png"
+    },
+    {
+      "code_cell_number": 6,
+      "notebook_cell_number": 9,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_006\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_006\\output.png"
+    },
+    {
+      "code_cell_number": 7,
+      "notebook_cell_number": 10,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_007\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_007\\output.png"
+    },
+    {
+      "code_cell_number": 8,
+      "notebook_cell_number": 11,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_008\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_008\\output.png"
+    },
+    {
+      "code_cell_number": 9,
+      "notebook_cell_number": 12,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_009\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_009\\output.png"
+    },
+    {
+      "code_cell_number": 10,
+      "notebook_cell_number": 14,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_010\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_010\\output.png"
+    },
+    {
+      "code_cell_number": 11,
+      "notebook_cell_number": 15,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_011\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_011\\output.png"
+    },
+    {
+      "code_cell_number": 12,
+      "notebook_cell_number": 17,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_012\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_012\\output.png"
+    },
+    {
+      "code_cell_number": 13,
+      "notebook_cell_number": 19,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_013\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_013\\output.png"
+    },
+    {
+      "code_cell_number": 14,
+      "notebook_cell_number": 20,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_014\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_014\\output.png"
+    },
+    {
+      "code_cell_number": 15,
+      "notebook_cell_number": 21,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_015\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_015\\output.png"
+    },
+    {
+      "code_cell_number": 16,
+      "notebook_cell_number": 23,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_016\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_016\\output.png"
+    },
+    {
+      "code_cell_number": 17,
+      "notebook_cell_number": 24,
+      "code_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_017\\code.png",
+      "output_image": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab07_model_comparison\\notebook\\cell_images\\Lab07_ModelComparison\\cell_017\\output.png"
+    }
+  ]
+}

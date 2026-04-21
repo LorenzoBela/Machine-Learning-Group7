@@ -1,0 +1,11 @@
+========================================================================================
+Running 2d
+Config: {'run_id': '2d', 'freeze_backbone': True, 'dropout': 0.2, 'learning_rate': 0.001, 'batch_size': 64, 'epochs': 3, 'optimizer': 'adam', 'scheduler': None, 'train_size': 5000, 'use_augmentation': False}
+ Epoch  TrainLoss  TrainAcc   ValLoss   ValAcc     Time
+--------------------------------------------------------
+     1     1.0518    66.82%    0.6621   80.00%     4.3s
+     2     0.6133    79.09%    0.6014   80.20%     6.5s
+     3     0.5356    81.49%    0.6036   79.00%     4.3s
+--------------------------------------------------------
+Training time : 15.1 seconds
+TEST accuracy : 79.81%

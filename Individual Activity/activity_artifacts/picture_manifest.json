@@ -1,0 +1,444 @@
+{
+  "created_utc": "2026-04-21T10:21:04.479317+00:00",
+  "count": 73,
+  "items": [
+    {
+      "type": "run_curve",
+      "round": "round1",
+      "run_id": "1",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round1\\run_1\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round1",
+      "run_id": "1",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round1\\run_1\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round1",
+      "run_id": "1",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round1\\run_1\\summary.png"
+    },
+    {
+      "type": "round_table",
+      "round": "round1",
+      "run_id": "",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\round_tables\\round1_table.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round2",
+      "run_id": "2a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2a\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round2",
+      "run_id": "2a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2a\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round2",
+      "run_id": "2a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2a\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round2",
+      "run_id": "2b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2b\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round2",
+      "run_id": "2b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2b\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round2",
+      "run_id": "2b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2b\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round2",
+      "run_id": "2c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2c\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round2",
+      "run_id": "2c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2c\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round2",
+      "run_id": "2c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2c\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round2",
+      "run_id": "2d",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2d\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round2",
+      "run_id": "2d",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2d\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round2",
+      "run_id": "2d",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2d\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round2",
+      "run_id": "2e",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2e\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round2",
+      "run_id": "2e",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2e\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round2",
+      "run_id": "2e",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round2\\run_2e\\summary.png"
+    },
+    {
+      "type": "round_table",
+      "round": "round2",
+      "run_id": "",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\round_tables\\round2_table.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round3",
+      "run_id": "3a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3a\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round3",
+      "run_id": "3a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3a\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round3",
+      "run_id": "3a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3a\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round3",
+      "run_id": "3b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3b\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round3",
+      "run_id": "3b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3b\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round3",
+      "run_id": "3b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3b\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round3",
+      "run_id": "3c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3c\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round3",
+      "run_id": "3c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3c\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round3",
+      "run_id": "3c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3c\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round3",
+      "run_id": "3d",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3d\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round3",
+      "run_id": "3d",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3d\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round3",
+      "run_id": "3d",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round3\\run_3d\\summary.png"
+    },
+    {
+      "type": "round_table",
+      "round": "round3",
+      "run_id": "",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\round_tables\\round3_table.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round4",
+      "run_id": "4a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4a\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round4",
+      "run_id": "4a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4a\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round4",
+      "run_id": "4a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4a\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round4",
+      "run_id": "4b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4b\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round4",
+      "run_id": "4b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4b\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round4",
+      "run_id": "4b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4b\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round4",
+      "run_id": "4c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4c\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round4",
+      "run_id": "4c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4c\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round4",
+      "run_id": "4c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4c\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round4",
+      "run_id": "4d",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4d\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round4",
+      "run_id": "4d",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4d\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round4",
+      "run_id": "4d",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round4\\run_4d\\summary.png"
+    },
+    {
+      "type": "round_table",
+      "round": "round4",
+      "run_id": "",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\round_tables\\round4_table.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round5",
+      "run_id": "5a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round5\\run_5a\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round5",
+      "run_id": "5a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round5\\run_5a\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round5",
+      "run_id": "5a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round5\\run_5a\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round5",
+      "run_id": "5b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round5\\run_5b\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round5",
+      "run_id": "5b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round5\\run_5b\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round5",
+      "run_id": "5b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round5\\run_5b\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round5",
+      "run_id": "5c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round5\\run_5c\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round5",
+      "run_id": "5c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round5\\run_5c\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round5",
+      "run_id": "5c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round5\\run_5c\\summary.png"
+    },
+    {
+      "type": "round_table",
+      "round": "round5",
+      "run_id": "",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\round_tables\\round5_table.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round6",
+      "run_id": "6a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round6\\run_6a\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round6",
+      "run_id": "6a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round6\\run_6a\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round6",
+      "run_id": "6a",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round6\\run_6a\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round6",
+      "run_id": "6b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round6\\run_6b\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round6",
+      "run_id": "6b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round6\\run_6b\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round6",
+      "run_id": "6b",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round6\\run_6b\\summary.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round6",
+      "run_id": "6c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round6\\run_6c\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round6",
+      "run_id": "6c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round6\\run_6c\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round6",
+      "run_id": "6c",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round6\\run_6c\\summary.png"
+    },
+    {
+      "type": "round_table",
+      "round": "round6",
+      "run_id": "",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\round_tables\\round6_table.png"
+    },
+    {
+      "type": "run_curve",
+      "round": "round7",
+      "run_id": "7",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round7\\run_7\\curves.png"
+    },
+    {
+      "type": "run_terminal",
+      "round": "round7",
+      "run_id": "7",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round7\\run_7\\terminal_proof.png"
+    },
+    {
+      "type": "run_summary",
+      "round": "round7",
+      "run_id": "7",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\runs\\round7\\run_7\\summary.png"
+    },
+    {
+      "type": "round_table",
+      "round": "round7",
+      "run_id": "",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\round_tables\\round7_table.png"
+    },
+    {
+      "type": "round7_confusion_matrix",
+      "round": "round7",
+      "run_id": "7",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\round7_confusion_matrix.png"
+    },
+    {
+      "type": "round7_top_confusions",
+      "round": "round7",
+      "run_id": "7",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\round7_top_confusions.png"
+    },
+    {
+      "type": "environment_proof",
+      "round": "",
+      "run_id": "",
+      "path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\Individual Activity\\activity_artifacts\\environment_proof.png"
+    }
+  ]
+}

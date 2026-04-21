@@ -1,0 +1,13 @@
+========================================================================================
+Running 4c
+Config: {'run_id': '4c', 'freeze_backbone': False, 'dropout': 0.2, 'learning_rate': 0.0001, 'batch_size': 64, 'epochs': 5, 'optimizer': 'adam', 'scheduler': None, 'train_size': 10000, 'use_augmentation': False}
+ Epoch  TrainLoss  TrainAcc   ValLoss   ValAcc     Time
+--------------------------------------------------------
+     1     0.5662    81.11%    0.3112   89.20%    20.0s
+     2     0.2551    90.93%    0.2375   91.70%    14.7s
+     3     0.1519    94.72%    0.2381   91.30%    17.0s
+     4     0.0999    96.44%    0.2633   91.20%    15.1s
+     5     0.0724    97.57%    0.2915   90.70%    19.7s
+--------------------------------------------------------
+Training time : 86.4 seconds
+TEST accuracy : 89.48%

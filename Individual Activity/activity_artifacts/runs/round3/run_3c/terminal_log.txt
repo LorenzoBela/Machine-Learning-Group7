@@ -1,0 +1,13 @@
+========================================================================================
+Running 3c
+Config: {'run_id': '3c', 'freeze_backbone': True, 'dropout': 0.2, 'learning_rate': 0.001, 'batch_size': 64, 'epochs': 5, 'optimizer': 'adam', 'scheduler': None, 'train_size': 10000, 'use_augmentation': False}
+ Epoch  TrainLoss  TrainAcc   ValLoss   ValAcc     Time
+--------------------------------------------------------
+     1     0.8312    72.66%    0.5314   81.20%    12.3s
+     2     0.5551    81.10%    0.4702   84.60%    11.8s
+     3     0.5009    82.29%    0.4588   84.40%    11.0s
+     4     0.4741    83.30%    0.4524   83.70%     9.0s
+     5     0.4662    83.22%    0.4628   84.30%     9.1s
+--------------------------------------------------------
+Training time : 53.1 seconds
+TEST accuracy : 81.85%
