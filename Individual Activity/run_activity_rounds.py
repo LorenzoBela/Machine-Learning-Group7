@@ -115,7 +115,7 @@ from PIL import Image, ImageDraw, ImageFont
 from torch.utils.data import DataLoader, Dataset, Subset
 from torchvision import datasets, transforms
 from torchvision.models import MobileNet_V2_Weights, mobilenet_v2
-from tqdm import tqdm
+from tqdm.auto import tqdm
 
 
 IMAGENET_MEAN = [0.485, 0.456, 0.406]
@@ -160,6 +160,10 @@ class DatasetBundle:
     train_augmented: Dataset
     test_set: Dataset
     notes: list[str]
+
+
+def is_notebook_runtime() -> bool:
+    return "ipykernel" in sys.modules
 
 
 class KaggleFashionMNISTDataset(Dataset):
@@ -591,9 +595,10 @@ def run_training(
     }
 
     logs: list[str] = []
+    use_tqdm_write = overall_pbar is not None and not is_notebook_runtime()
 
     def emit(message: str) -> None:
-        if overall_pbar is not None:
+        if use_tqdm_write:
             # Keep the global bar stable while still showing live run output.
             tqdm.write(message)
         else:
@@ -1035,7 +1040,7 @@ def run_one_config(
         f"Running {cfg.run_id}",
         f"Config: {asdict(cfg)}",
     ]
-    if overall_pbar is not None:
+    if overall_pbar is not None and not is_notebook_runtime():
         overall_pbar.set_postfix_str(f"run={cfg.run_id}")
     for line in preface:
         if overall_pbar is None:
@@ -1353,12 +1358,14 @@ def main() -> None:
     round7_labels: np.ndarray | None = None
     round7_preds: np.ndarray | None = None
 
+    notebook_runtime = is_notebook_runtime()
     total_epochs = sum(cfg.epochs for r in round_order for cfg in rounds[r])
     overall_pbar = tqdm(
         total=total_epochs,
         desc="Overall Training Progress",
         unit="epoch",
-        dynamic_ncols=True,
+        dynamic_ncols=not notebook_runtime,
+        leave=not notebook_runtime,
     )
 
     for round_name in round_order:
