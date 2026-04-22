@@ -595,10 +595,9 @@ def run_training(
     }
 
     logs: list[str] = []
-    use_tqdm_write = overall_pbar is not None and not is_notebook_runtime()
 
     def emit(message: str) -> None:
-        if use_tqdm_write:
+        if overall_pbar is not None:
             # Keep the global bar stable while still showing live run output.
             tqdm.write(message)
         else:
@@ -1040,10 +1039,13 @@ def run_one_config(
         f"Running {cfg.run_id}",
         f"Config: {asdict(cfg)}",
     ]
-    if overall_pbar is not None and not is_notebook_runtime():
+    if overall_pbar is not None:
         overall_pbar.set_postfix_str(f"run={cfg.run_id}")
+    
     for line in preface:
-        if overall_pbar is None:
+        if overall_pbar is not None:
+            tqdm.write(line)
+        else:
             print(line)
 
     train_loader, val_loader, test_loader = make_loaders(
