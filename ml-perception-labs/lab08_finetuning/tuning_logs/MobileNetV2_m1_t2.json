@@ -1,0 +1,49 @@
+{
+  "model_name": "MobileNetV2",
+  "trial_id": "m1_t2",
+  "config": {
+    "trial_id": "m1_t2",
+    "freeze_backbone": false,
+    "learning_rate": 3e-05,
+    "scheduler": "step",
+    "batch_size": 64,
+    "epochs": 6,
+    "weight_decay": 0.0001,
+    "label_smoothing": 0.05,
+    "use_augmentation": true,
+    "grad_accumulation_steps": 2,
+    "patience": 2
+  },
+  "best_epoch": 1,
+  "best_val_accuracy": 0.6216216216216216,
+  "test_accuracy": 0.7631578947368421,
+  "test_precision_macro": 0.7150649350649351,
+  "test_recall_macro": 0.7890909090909091,
+  "test_f1_macro": 0.7176122123490545,
+  "training_time_s": 36.50139229999968,
+  "inference_time_ms_per_sample": 0.3044263158029169,
+  "peak_gpu_memory_mb": 288.595703125,
+  "checkpoint_path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab08_finetuning\\finetuned_models\\MobileNetV2_m1_t2.pth",
+  "history": {
+    "train_loss": [
+      0.9344701048306057,
+      0.8330836888722011,
+      0.8416718261582511
+    ],
+    "val_loss": [
+      0.9967461824417114,
+      0.9881277084350586,
+      0.9860543608665466
+    ],
+    "train_acc": [
+      0.6685714285714286,
+      0.7428571428571429,
+      0.7542857142857143
+    ],
+    "val_acc": [
+      0.6216216216216216,
+      0.5945945945945946,
+      0.5945945945945946
+    ]
+  }
+}

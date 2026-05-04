@@ -1,0 +1,2 @@
+model_name,trial_id,best_epoch,best_val_accuracy,test_accuracy,training_time_s,inference_time_ms_per_sample,peak_gpu_memory_mb
+EfficientDetLite0,m2_t3,3,0.5675675675675675,0.5,65.91380469999967,0.20670526316136698,304.36474609375

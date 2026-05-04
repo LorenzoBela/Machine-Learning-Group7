@@ -1,0 +1,61 @@
+{
+  "model_name": "EfficientDetLite0",
+  "trial_id": "m2_t2",
+  "config": {
+    "trial_id": "m2_t2",
+    "freeze_backbone": false,
+    "learning_rate": 3e-05,
+    "scheduler": "step",
+    "batch_size": 64,
+    "epochs": 6,
+    "weight_decay": 0.0001,
+    "label_smoothing": 0.05,
+    "use_augmentation": true,
+    "grad_accumulation_steps": 2,
+    "patience": 2
+  },
+  "best_epoch": 4,
+  "best_val_accuracy": 0.5675675675675675,
+  "test_accuracy": 0.5789473684210527,
+  "test_precision_macro": 0.501969696969697,
+  "test_recall_macro": 0.5909090909090909,
+  "test_f1_macro": 0.5172932330827067,
+  "training_time_s": 67.77927799999998,
+  "inference_time_ms_per_sample": 0.43973421052693373,
+  "peak_gpu_memory_mb": 311.69189453125,
+  "checkpoint_path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab08_finetuning\\finetuned_models\\EfficientDetLite0_m2_t2.pth",
+  "history": {
+    "train_loss": [
+      1.2405776126044137,
+      1.2804514053889684,
+      1.1634032085963657,
+      1.14512266431536,
+      1.3116059964043754,
+      1.1492822122573854
+    ],
+    "val_loss": [
+      1.2256746292114258,
+      1.23818039894104,
+      1.2496901750564575,
+      1.256270170211792,
+      1.246105432510376,
+      1.227464199066162
+    ],
+    "train_acc": [
+      0.5371428571428571,
+      0.5314285714285715,
+      0.5885714285714285,
+      0.5542857142857143,
+      0.5028571428571429,
+      0.5542857142857143
+    ],
+    "val_acc": [
+      0.5135135135135135,
+      0.5405405405405406,
+      0.5405405405405406,
+      0.5675675675675675,
+      0.5405405405405406,
+      0.5405405405405406
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+Metric,MobileNetV2 (Before),MobileNetV2 (After),Notes,EfficientDetLite0 (Before),EfficientDetLite0 (After)
+Primary task metric (accuracy),0.7632,0.7632,Test accuracy on the held-out test split,,
+Secondary task metric (F1 macro),0.7089,0.7491,Macro-averaged F1-score,,
+Validation loss (best),0.8108,1.0688,Lab 7 uses best validation accuracy; Lab 8 stores best validation loss here,,
+Train-Validation gap (overfitting indicator),,0.0999,Computed from final epoch train/val accuracy,,
+Training time (s),513.9,71.12,Measured wall-clock time,,
+Inference time per sample (ms),0.218,0.3245,Single-batch inference timing,,
+Trainable parameter count,2230277.0,2230277,Total parameters from the active model definition,,
+"Improvement vs. baseline (Δ, %)",0.0,0.00%,Absolute and relative accuracy gain,,
+Primary task metric (accuracy),,,Test accuracy on the held-out test split,0.4737,0.5526
+Secondary task metric (F1 macro),,,Macro-averaged F1-score,0.4263,0.4931
+Validation loss (best),,,Lab 7 uses best validation accuracy; Lab 8 stores best validation loss here,0.6216,1.253
+Train-Validation gap (overfitting indicator),,,Computed from final epoch train/val accuracy,,-0.0049
+Training time (s),,,Measured wall-clock time,554.6,56.19
+Inference time per sample (ms),,,Single-batch inference timing,0.2981,0.253
+Trainable parameter count,,,Total parameters from the active model definition,3377413.0,3377413
+"Improvement vs. baseline (Δ, %)",,,Absolute and relative accuracy gain,0.0789,16.67%
