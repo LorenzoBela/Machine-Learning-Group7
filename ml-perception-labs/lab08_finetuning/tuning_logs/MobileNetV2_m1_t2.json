@@ -14,36 +14,40 @@
     "grad_accumulation_steps": 2,
     "patience": 2
   },
-  "best_epoch": 1,
-  "best_val_accuracy": 0.6216216216216216,
-  "test_accuracy": 0.7631578947368421,
-  "test_precision_macro": 0.7150649350649351,
-  "test_recall_macro": 0.7890909090909091,
-  "test_f1_macro": 0.7176122123490545,
-  "training_time_s": 36.50139229999968,
-  "inference_time_ms_per_sample": 0.3044263158029169,
-  "peak_gpu_memory_mb": 288.595703125,
+  "best_epoch": 2,
+  "best_val_accuracy": 0.82,
+  "test_accuracy": 0.66,
+  "test_precision_macro": 0.6796077149395228,
+  "test_recall_macro": 0.6668098208009368,
+  "test_f1_macro": 0.6673684210526316,
+  "training_time_s": 105.12213230000634,
+  "inference_time_ms_per_sample": 0.2724390624280204,
+  "peak_gpu_memory_mb": 289.095703125,
   "checkpoint_path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab08_finetuning\\finetuned_models\\MobileNetV2_m1_t2.pth",
   "history": {
     "train_loss": [
-      0.9344701048306057,
-      0.8330836888722011,
-      0.8416718261582511
+      0.9269358944892884,
+      0.9200622129440308,
+      0.9437236388524374,
+      0.8969968970616659
     ],
     "val_loss": [
-      0.9967461824417114,
-      0.9881277084350586,
-      0.9860543608665466
+      0.7081917428970337,
+      0.7081188583374023,
+      0.7064273905754089,
+      0.705813217163086
     ],
     "train_acc": [
-      0.6685714285714286,
-      0.7428571428571429,
-      0.7542857142857143
+      0.69,
+      0.7033333333333334,
+      0.6966666666666667,
+      0.7133333333333334
     ],
     "val_acc": [
-      0.6216216216216216,
-      0.5945945945945946,
-      0.5945945945945946
+      0.81,
+      0.82,
+      0.82,
+      0.82
     ]
   }
 }

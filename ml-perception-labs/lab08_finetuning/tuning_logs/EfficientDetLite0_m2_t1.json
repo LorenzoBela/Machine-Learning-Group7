@@ -14,44 +14,36 @@
     "grad_accumulation_steps": 1,
     "patience": 2
   },
-  "best_epoch": 3,
-  "best_val_accuracy": 0.5945945945945946,
-  "test_accuracy": 0.5526315789473685,
-  "test_precision_macro": 0.4776190476190476,
-  "test_recall_macro": 0.5727272727272728,
-  "test_f1_macro": 0.49312675628465097,
-  "training_time_s": 56.19410500000049,
-  "inference_time_ms_per_sample": 0.25298947366536595,
-  "peak_gpu_memory_mb": 94.9423828125,
+  "best_epoch": 1,
+  "best_val_accuracy": 0.56,
+  "test_accuracy": 0.53,
+  "test_precision_macro": 0.5249476865845153,
+  "test_recall_macro": 0.5485348779735642,
+  "test_f1_macro": 0.5300261279900729,
+  "training_time_s": 77.5284546000039,
+  "inference_time_ms_per_sample": 0.17728124998939165,
+  "peak_gpu_memory_mb": 119.2705078125,
   "checkpoint_path": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab08_finetuning\\finetuned_models\\EfficientDetLite0_m2_t1.pth",
   "history": {
     "train_loss": [
-      1.3181330340249198,
-      1.3122784008298602,
-      1.2728393268585205,
-      1.2028659166608537,
-      1.3702476160866874
+      1.3737442509333293,
+      1.3260644849141439,
+      1.320468316078186
     ],
     "val_loss": [
-      1.3013685941696167,
-      1.282598614692688,
-      1.2885023355484009,
-      1.2616766691207886,
-      1.2529575824737549
+      1.2308297157287598,
+      1.2304480409622192,
+      1.2225280141830444
     ],
     "train_acc": [
-      0.5142857142857142,
-      0.56,
-      0.5714285714285714,
-      0.5828571428571429,
-      0.5085714285714286
+      0.4866666666666667,
+      0.51,
+      0.5366666666666666
     ],
     "val_acc": [
-      0.5135135135135135,
-      0.5405405405405406,
-      0.5945945945945946,
-      0.5675675675675675,
-      0.5135135135135135
+      0.56,
+      0.51,
+      0.55
     ]
   }
 }

@@ -1,2 +1,2 @@
 model_name,trial_id,best_epoch,best_val_accuracy,test_accuracy,training_time_s,inference_time_ms_per_sample,peak_gpu_memory_mb
-MobileNetV2,m1_t1,4,0.6486486486486487,0.7631578947368421,71.12156700000014,0.32446842104898105,88.06982421875
+MobileNetV2,m1_t1,2,0.82,0.65,108.33461499999976,0.22928281237000192,103.7978515625
