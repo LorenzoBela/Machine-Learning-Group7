@@ -1,0 +1,8 @@
+Input size: 64x64 RGB
+Input tensor for original PyTorch model: NCHW float32, shape (1, 3, 64, 64)
+Input tensor for converted TFLite model: inspect interpreter input; this run accepts normalized float32 image data.
+Resize: torchvision/PIL resize to 64x64
+Color order: RGB
+Scale: ToTensor converts uint8 pixels to [0, 1]
+Normalization mean: [0.485, 0.456, 0.406]
+Normalization std: [0.229, 0.224, 0.225]
