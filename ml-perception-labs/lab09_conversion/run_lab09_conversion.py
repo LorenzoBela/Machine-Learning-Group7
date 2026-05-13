@@ -1,5 +1,6 @@
 import csv
 import json
+import os
 import shutil
 import subprocess
 import sys
@@ -490,7 +491,8 @@ def main() -> None:
     flexops = "No FlexOps were detected in the converter log." if "Flex" not in conversion_log else "Flex-related text appeared in the converter log; inspect `onnx2tf_conversion.log` before Raspberry Pi deployment."
     write_model_card(metrics, input_details, output_details)
     write_report(metrics, example_path, input_details, output_details, flexops)
-    write_notebook(metrics, example_path, input_details, output_details)
+    if os.environ.get("LAB09_SKIP_NOTEBOOK_WRITE") != "1":
+        write_notebook(metrics, example_path, input_details, output_details)
 
     summary = {
         "classes": dataset.classes,

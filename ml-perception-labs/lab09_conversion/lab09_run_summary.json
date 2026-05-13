@@ -7,7 +7,6 @@
     "combo"
   ],
   "test_samples": 100,
-  "sample_input": "C:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab09_conversion\\deployment_package\\sample_input.jpg",
   "metrics": {
     "torch_accuracy": 0.72,
     "tflite_accuracy": 0.72,
@@ -15,8 +14,8 @@
     "tflite_f1": 0.7269029315540945,
     "max_abs_error": 1.3530254364013672e-05,
     "prediction_agreement": 1.0,
-    "torch_latency_ms": 12.559257000029902,
-    "tflite_latency_ms": 2.259126999997534
+    "torch_latency_ms": 5.422201000037603,
+    "tflite_latency_ms": 1.3040559999353718
   },
   "tflite_input_shape": [
     1,
