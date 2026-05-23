@@ -1,0 +1,11 @@
+{
+  "model": "MobileNetV3-small",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+  "img_size": 128,
+  "split_strategy": "blocked_by_filename",
+  "test_accuracy": 0.9600,
+  "macro_f1": 0.9660,
+  "worst_class_recall": 0.8519,
+  "checkpoint": "c:\\Users\\Lorenzo Bela\\Downloads\\Elective Machine Learning\\ml-perception-labs\\lab10_rpi_deployment\\deployment_package\\lab10_mobilenetv3_small_best.pth"
+}

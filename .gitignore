@@ -2,7 +2,6 @@
 ml-perception-labs/lab04_eda_bias/data/
 
 # Ignore markdown and zip files
-*.md
 *.zip
 *.npy
 *.tar.gz
