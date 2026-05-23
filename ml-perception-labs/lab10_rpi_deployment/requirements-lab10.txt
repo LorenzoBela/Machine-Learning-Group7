@@ -1,0 +1,17 @@
+notebook
+ipykernel
+nbformat
+pandas
+matplotlib
+scikit-learn
+opencv-python
+pillow
+onnx
+tensorflow==2.20.*
+tf-keras==2.20.*
+onnx2tf
+onnx_graphsurgeon
+sng4onnx
+onnxsim
+ai-edge-litert
+protobuf==5.29.5

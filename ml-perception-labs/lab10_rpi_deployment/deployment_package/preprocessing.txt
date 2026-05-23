@@ -1,0 +1,8 @@
+Input size: 128x128 RGB
+Input tensor for PyTorch training: NCHW float32, shape (1, 3, 128, 128)
+Input tensor for converted TFLite model: NHWC float32, shape (1, 128, 128, 3) unless converter reports otherwise
+Resize: center-crop square then resize with area/PIL-style interpolation
+Color order: RGB
+Scale: uint8 pixels to [0, 1]
+Normalization mean: [0.485, 0.456, 0.406]
+Normalization std: [0.229, 0.224, 0.225]

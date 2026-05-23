@@ -1,0 +1,501 @@
+image,true_label,pred_label,confidence,inference_ms,correct
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_001.jpg,Noodles,Noodles,0.942525,2.275,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_002.jpg,Noodles,Noodles,0.953708,1.549,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_003.jpg,Noodles,Noodles,0.942313,1.141,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_004.jpg,Noodles,Noodles,0.972590,0.959,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_005.jpg,Noodles,Noodles,0.982780,0.945,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_006.jpg,Noodles,Noodles,0.968936,1.208,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_007.jpg,Noodles,Noodles,0.966878,1.057,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_008.jpg,Noodles,Noodles,0.843581,1.036,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_009.jpg,Noodles,Noodles,0.893499,1.060,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_010.jpg,Noodles,Noodles,0.959772,0.996,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_011.jpg,Noodles,Noodles,0.897054,1.115,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_012.jpg,Noodles,Noodles,0.914631,0.898,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_013.jpg,Noodles,Noodles,0.940740,1.297,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_014.jpg,Noodles,Noodles,0.971580,1.041,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_015.jpg,Noodles,Noodles,0.960569,0.923,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_016.jpg,Noodles,Noodles,0.842589,1.676,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_017.jpg,Noodles,Noodles,0.586309,1.426,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_018.jpg,Noodles,Noodles,0.909426,1.236,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_019.jpg,Noodles,Noodles,0.923933,1.259,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_020.jpg,Noodles,Noodles,0.628210,0.971,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_021.jpg,Noodles,Noodles,0.951532,1.050,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_022.jpg,Noodles,Noodles,0.714269,1.164,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_023.jpg,Noodles,Noodles,0.942439,1.064,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_024.jpg,Noodles,Noodles,0.900918,1.089,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_025.jpg,Noodles,Noodles,0.930896,1.220,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_026.jpg,Noodles,Noodles,0.965403,1.083,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_027.jpg,Noodles,Noodles,0.916214,0.978,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_028.jpg,Noodles,Noodles,0.933688,1.262,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_029.jpg,Noodles,Noodles,0.967510,1.110,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_030.jpg,Noodles,Noodles,0.878262,1.146,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_031.jpg,Noodles,Noodles,0.630906,0.964,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_032.jpg,Noodles,canned goods,0.490741,1.094,False
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_033.jpg,Noodles,Noodles,0.682612,1.255,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_034.jpg,Noodles,Noodles,0.721886,1.292,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_035.jpg,Noodles,Noodles,0.950025,0.986,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_036.jpg,Noodles,Noodles,0.985228,1.161,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_037.jpg,Noodles,Noodles,0.963641,1.297,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_038.jpg,Noodles,Noodles,0.941580,1.189,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_039.jpg,Noodles,Noodles,0.954006,0.984,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_040.jpg,Noodles,Noodles,0.984701,1.029,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_041.jpg,Noodles,Noodles,0.732783,1.025,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_042.jpg,Noodles,Noodles,0.868523,1.056,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_043.jpg,Noodles,Noodles,0.794007,0.968,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_044.jpg,Noodles,Noodles,0.915724,0.963,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_045.jpg,Noodles,Noodles,0.948111,1.424,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_046.jpg,Noodles,Noodles,0.793460,0.925,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_047.jpg,Noodles,Noodles,0.821673,1.359,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_048.jpg,Noodles,Noodles,0.951993,1.126,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_049.jpg,Noodles,Noodles,0.901855,1.086,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_050.jpg,Noodles,Noodles,0.957788,1.044,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_051.jpg,Noodles,Noodles,0.944742,0.988,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_052.jpg,Noodles,Noodles,0.921005,1.106,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_053.jpg,Noodles,Noodles,0.928491,1.119,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_054.jpg,Noodles,Noodles,0.977174,0.982,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_055.jpg,Noodles,Noodles,0.981029,0.951,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_056.jpg,Noodles,Noodles,0.962300,1.345,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_057.jpg,Noodles,Noodles,0.963965,1.040,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_058.jpg,Noodles,Noodles,0.959680,1.042,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_059.jpg,Noodles,Noodles,0.947561,0.934,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_060.jpg,Noodles,Noodles,0.970879,1.175,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_061.jpg,Noodles,Noodles,0.941503,1.086,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_062.jpg,Noodles,Noodles,0.959926,0.941,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_063.jpg,Noodles,Noodles,0.970392,0.968,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_064.jpg,Noodles,Noodles,0.955748,1.202,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_065.jpg,Noodles,Noodles,0.955962,1.157,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_066.jpg,Noodles,Noodles,0.837593,0.976,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_067.jpg,Noodles,Noodles,0.897567,0.896,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_068.jpg,Noodles,Noodles,0.854900,1.112,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_069.jpg,Noodles,Noodles,0.902345,1.139,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_070.jpg,Noodles,Noodles,0.634530,0.993,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_071.jpg,Noodles,Noodles,0.914622,0.971,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_072.jpg,Noodles,Noodles,0.716848,1.075,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_073.jpg,Noodles,Noodles,0.942593,0.948,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_074.jpg,Noodles,Noodles,0.852973,1.125,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_075.jpg,Noodles,Noodles,0.934593,0.927,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_076.jpg,Noodles,Noodles,0.933232,1.238,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_077.jpg,Noodles,Noodles,0.945822,1.197,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_078.jpg,Noodles,Noodles,0.977449,0.981,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_079.jpg,Noodles,Noodles,0.967792,1.047,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_080.jpg,Noodles,Noodles,0.965266,1.045,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_081.jpg,Noodles,Noodles,0.805240,1.221,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_082.jpg,Noodles,Noodles,0.570182,1.041,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_083.jpg,Noodles,Noodles,0.902065,1.051,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_084.jpg,Noodles,Noodles,0.859752,1.283,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_085.jpg,Noodles,Noodles,0.980459,1.161,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_086.jpg,Noodles,Noodles,0.970658,0.962,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_087.jpg,Noodles,Noodles,0.973734,1.037,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_088.jpg,Noodles,Noodles,0.967653,1.297,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_089.jpg,Noodles,Noodles,0.987746,0.910,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_090.jpg,Noodles,Noodles,0.977697,0.951,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_091.jpg,Noodles,Noodles,0.934291,0.936,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_092.jpg,Noodles,Noodles,0.980723,1.164,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_093.jpg,Noodles,Noodles,0.955310,1.068,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_094.jpg,Noodles,Noodles,0.925513,0.969,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_095.jpg,Noodles,Noodles,0.969603,1.061,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_096.jpg,Noodles,Noodles,0.890582,1.222,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_097.jpg,Noodles,Noodles,0.872397,1.062,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_098.jpg,Noodles,Noodles,0.953761,0.987,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_099.jpg,Noodles,Noodles,0.933103,1.325,True
+ml-perception-labs\lab08_finetuning\data\raw\Noodles\Noodles_100.jpg,Noodles,Noodles,0.970666,0.904,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_001.jpg,Rice,Rice,0.908706,0.933,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_002.jpg,Rice,Rice,0.956470,1.566,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_003.jpg,Rice,Rice,0.963281,1.186,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_004.jpg,Rice,Rice,0.890205,1.092,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_005.jpg,Rice,Rice,0.962211,0.936,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_006.jpg,Rice,Rice,0.927201,1.176,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_007.jpg,Rice,Rice,0.953680,1.231,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_008.jpg,Rice,Rice,0.901307,0.976,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_009.jpg,Rice,Rice,0.857698,0.974,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_010.jpg,Rice,Rice,0.946242,1.389,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_011.jpg,Rice,Rice,0.883523,1.070,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_012.jpg,Rice,Rice,0.945468,1.049,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_013.jpg,Rice,Rice,0.959585,0.921,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_014.jpg,Rice,Rice,0.941916,1.049,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_015.jpg,Rice,Rice,0.967885,1.171,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_016.jpg,Rice,Rice,0.846190,1.027,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_017.jpg,Rice,Rice,0.973598,0.936,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_018.jpg,Rice,Rice,0.916586,1.005,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_019.jpg,Rice,Rice,0.915206,1.151,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_020.jpg,Rice,Rice,0.960621,1.197,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_021.jpg,Rice,Rice,0.971328,1.006,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_022.jpg,Rice,Rice,0.888057,0.977,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_023.jpg,Rice,Rice,0.915367,1.539,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_024.jpg,Rice,Rice,0.967145,1.019,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_025.jpg,Rice,Rice,0.922610,0.986,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_026.jpg,Rice,Rice,0.966852,0.975,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_027.jpg,Rice,Rice,0.673616,1.071,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_028.jpg,Rice,Rice,0.943814,1.149,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_029.jpg,Rice,Rice,0.931511,0.971,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_030.jpg,Rice,Rice,0.844334,0.971,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_031.jpg,Rice,Rice,0.911930,1.156,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_032.jpg,Rice,Rice,0.925123,1.174,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_033.jpg,Rice,Rice,0.909864,1.092,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_034.jpg,Rice,Rice,0.860644,0.901,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_035.jpg,Rice,Rice,0.918225,1.009,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_036.jpg,Rice,Rice,0.797284,1.069,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_037.jpg,Rice,Rice,0.852465,0.979,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_038.jpg,Rice,Rice,0.889715,0.927,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_039.jpg,Rice,Rice,0.879936,0.942,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_040.jpg,Rice,Rice,0.926255,1.463,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_041.jpg,Rice,Rice,0.916513,0.960,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_042.jpg,Rice,Rice,0.873852,0.949,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_043.jpg,Rice,Rice,0.947390,1.060,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_044.jpg,Rice,Rice,0.827878,1.260,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_045.jpg,Rice,Rice,0.893089,1.010,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_046.jpg,Rice,Rice,0.914569,0.928,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_047.jpg,Rice,Rice,0.806091,0.910,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_048.jpg,Rice,Rice,0.745357,2.038,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_049.jpg,Rice,Rice,0.843752,1.093,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_050.jpg,Rice,Rice,0.920095,0.957,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_051.jpg,Rice,Rice,0.933653,0.918,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_052.jpg,Rice,Rice,0.966873,1.242,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_053.jpg,Rice,Rice,0.980101,1.193,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_054.jpg,Rice,Rice,0.957837,0.950,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_055.jpg,Rice,Rice,0.977521,0.964,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_056.jpg,Rice,Rice,0.956727,1.216,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_057.jpg,Rice,Rice,0.970679,1.260,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_058.jpg,Rice,Rice,0.967868,1.141,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_059.jpg,Rice,Rice,0.918125,1.122,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_060.jpg,Rice,Rice,0.787755,1.091,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_061.jpg,Rice,Rice,0.939656,1.022,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_062.jpg,Rice,Rice,0.950078,0.981,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_063.jpg,Rice,Rice,0.945077,1.042,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_064.jpg,Rice,Rice,0.956311,2.449,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_065.jpg,Rice,Rice,0.957407,1.720,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_066.jpg,Rice,Rice,0.924509,1.339,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_067.jpg,Rice,Rice,0.964709,1.219,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_068.jpg,Rice,Rice,0.952005,1.049,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_069.jpg,Rice,Rice,0.972352,0.955,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_070.jpg,Rice,Rice,0.968914,1.175,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_071.jpg,Rice,Rice,0.957650,1.267,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_072.jpg,Rice,Rice,0.932407,1.061,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_073.jpg,Rice,Rice,0.959361,0.976,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_074.jpg,Rice,Rice,0.957439,1.107,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_075.jpg,Rice,Rice,0.945672,1.165,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_076.jpg,Rice,Rice,0.938118,1.124,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_077.jpg,Rice,Rice,0.802181,0.936,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_078.jpg,Rice,Rice,0.946582,1.052,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_079.jpg,Rice,Rice,0.946882,1.104,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_080.jpg,Rice,Rice,0.747936,1.167,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_081.jpg,Rice,Rice,0.950774,1.066,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_082.jpg,Rice,Rice,0.933884,1.032,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_083.jpg,Rice,Rice,0.906529,1.251,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_084.jpg,Rice,Rice,0.932965,1.020,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_085.jpg,Rice,Rice,0.975448,0.910,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_086.jpg,Rice,Rice,0.835828,1.189,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_087.jpg,Rice,Rice,0.926288,1.090,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_088.jpg,Rice,Rice,0.922657,1.017,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_089.jpg,Rice,Rice,0.897507,0.926,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_090.jpg,Rice,Rice,0.952469,1.186,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_091.jpg,Rice,Rice,0.933045,1.360,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_092.jpg,Rice,Rice,0.921880,1.103,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_093.jpg,Rice,Rice,0.962702,1.221,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_094.jpg,Rice,Rice,0.849549,0.944,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_095.jpg,Rice,Rice,0.933015,1.545,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_096.jpg,Rice,Rice,0.936849,0.910,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_097.jpg,Rice,Rice,0.912793,0.914,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_098.jpg,Rice,Rice,0.943344,0.929,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_099.jpg,Rice,Rice,0.965720,1.065,True
+ml-perception-labs\lab08_finetuning\data\raw\Rice\Rice_100.jpg,Rice,Rice,0.968195,0.939,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_001.jpg,bottled water,bottled water,0.577012,0.980,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_002.jpg,bottled water,canned goods,0.499828,1.228,False
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_003.jpg,bottled water,canned goods,0.437085,1.060,False
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_004.jpg,bottled water,bottled water,0.627111,0.969,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_005.jpg,bottled water,bottled water,0.505774,0.927,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_006.jpg,bottled water,bottled water,0.665377,2.743,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_007.jpg,bottled water,bottled water,0.765184,1.148,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_008.jpg,bottled water,bottled water,0.516730,0.997,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_009.jpg,bottled water,bottled water,0.478982,1.174,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_010.jpg,bottled water,bottled water,0.626790,1.188,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_011.jpg,bottled water,bottled water,0.676438,0.949,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_012.jpg,bottled water,bottled water,0.715726,0.925,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_013.jpg,bottled water,combo,0.505884,1.044,False
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_014.jpg,bottled water,bottled water,0.906713,1.344,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_015.jpg,bottled water,bottled water,0.788163,1.097,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_016.jpg,bottled water,bottled water,0.960099,0.917,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_017.jpg,bottled water,bottled water,0.907949,1.134,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_018.jpg,bottled water,bottled water,0.801035,1.098,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_019.jpg,bottled water,bottled water,0.881359,0.939,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_020.jpg,bottled water,bottled water,0.919026,0.936,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_021.jpg,bottled water,bottled water,0.846013,1.046,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_022.jpg,bottled water,bottled water,0.916385,1.174,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_023.jpg,bottled water,bottled water,0.823852,1.003,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_024.jpg,bottled water,bottled water,0.843543,0.924,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_025.jpg,bottled water,bottled water,0.898445,0.942,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_026.jpg,bottled water,bottled water,0.756626,1.282,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_027.jpg,bottled water,bottled water,0.823647,0.977,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_028.jpg,bottled water,bottled water,0.763024,0.924,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_029.jpg,bottled water,bottled water,0.801588,0.915,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_030.jpg,bottled water,bottled water,0.546685,1.167,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_031.jpg,bottled water,bottled water,0.848421,0.909,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_032.jpg,bottled water,bottled water,0.722211,0.910,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_033.jpg,bottled water,bottled water,0.616119,0.979,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_034.jpg,bottled water,combo,0.640178,1.236,False
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_035.jpg,bottled water,bottled water,0.942328,1.094,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_036.jpg,bottled water,bottled water,0.933540,1.072,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_037.jpg,bottled water,bottled water,0.865896,0.961,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_038.jpg,bottled water,bottled water,0.865910,1.146,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_039.jpg,bottled water,bottled water,0.911283,1.275,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_040.jpg,bottled water,bottled water,0.928250,1.094,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_041.jpg,bottled water,canned goods,0.526219,0.928,False
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_042.jpg,bottled water,bottled water,0.663960,1.005,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_043.jpg,bottled water,bottled water,0.917966,1.588,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_044.jpg,bottled water,bottled water,0.883486,0.952,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_045.jpg,bottled water,bottled water,0.955587,0.948,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_046.jpg,bottled water,bottled water,0.806321,0.987,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_047.jpg,bottled water,bottled water,0.747348,1.360,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_048.jpg,bottled water,bottled water,0.807117,0.956,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_049.jpg,bottled water,bottled water,0.971199,0.914,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_050.jpg,bottled water,bottled water,0.936849,0.917,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_051.jpg,bottled water,bottled water,0.784150,1.223,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_052.jpg,bottled water,bottled water,0.440835,1.009,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_053.jpg,bottled water,bottled water,0.694515,0.952,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_054.jpg,bottled water,bottled water,0.450004,0.986,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_055.jpg,bottled water,bottled water,0.504026,1.780,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_056.jpg,bottled water,bottled water,0.828057,0.972,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_057.jpg,bottled water,bottled water,0.802023,0.916,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_058.jpg,bottled water,bottled water,0.411683,1.070,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_059.jpg,bottled water,combo,0.503750,1.060,False
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_060.jpg,bottled water,bottled water,0.500409,0.968,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_061.jpg,bottled water,bottled water,0.541728,0.922,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_062.jpg,bottled water,bottled water,0.579147,0.975,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_063.jpg,bottled water,bottled water,0.589529,1.212,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_064.jpg,bottled water,bottled water,0.869272,0.976,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_065.jpg,bottled water,bottled water,0.936373,0.997,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_066.jpg,bottled water,bottled water,0.930584,0.987,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_067.jpg,bottled water,bottled water,0.973700,1.135,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_068.jpg,bottled water,bottled water,0.883350,1.078,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_069.jpg,bottled water,bottled water,0.791321,0.963,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_070.jpg,bottled water,bottled water,0.826893,1.376,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_071.jpg,bottled water,bottled water,0.779704,1.157,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_072.jpg,bottled water,bottled water,0.910880,0.942,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_073.jpg,bottled water,bottled water,0.786723,1.097,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_074.jpg,bottled water,bottled water,0.921182,1.306,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_075.jpg,bottled water,bottled water,0.822748,0.984,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_076.jpg,bottled water,bottled water,0.837343,0.945,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_077.jpg,bottled water,bottled water,0.875689,0.938,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_078.jpg,bottled water,bottled water,0.556408,1.052,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_079.jpg,bottled water,bottled water,0.617803,1.060,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_080.jpg,bottled water,bottled water,0.489707,0.907,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_081.jpg,bottled water,bottled water,0.843663,0.954,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_082.jpg,bottled water,bottled water,0.742900,0.996,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_083.jpg,bottled water,bottled water,0.591824,1.456,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_084.jpg,bottled water,combo,0.473605,0.934,False
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_085.jpg,bottled water,bottled water,0.884275,0.898,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_086.jpg,bottled water,bottled water,0.936723,0.929,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_087.jpg,bottled water,bottled water,0.912312,1.151,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_088.jpg,bottled water,bottled water,0.910934,1.036,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_089.jpg,bottled water,bottled water,0.924740,1.077,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_090.jpg,bottled water,bottled water,0.883983,0.930,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_091.jpg,bottled water,bottled water,0.546869,1.166,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_092.jpg,bottled water,bottled water,0.781801,0.994,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_093.jpg,bottled water,bottled water,0.922324,1.031,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_094.jpg,bottled water,bottled water,0.896525,1.020,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_095.jpg,bottled water,bottled water,0.916058,1.140,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_096.jpg,bottled water,bottled water,0.494417,0.959,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_097.jpg,bottled water,bottled water,0.752763,0.914,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_098.jpg,bottled water,bottled water,0.687537,0.930,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_099.jpg,bottled water,bottled water,0.939929,1.103,True
+ml-perception-labs\lab08_finetuning\data\raw\bottled water\bottled_water_100.jpg,bottled water,bottled water,0.947833,0.988,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_001.jpg,canned goods,canned goods,0.957783,0.967,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_002.jpg,canned goods,canned goods,0.952995,1.132,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_003.jpg,canned goods,canned goods,0.932189,1.275,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_004.jpg,canned goods,canned goods,0.975195,1.005,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_005.jpg,canned goods,canned goods,0.989871,0.958,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_006.jpg,canned goods,canned goods,0.981548,1.296,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_007.jpg,canned goods,canned goods,0.981562,0.940,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_008.jpg,canned goods,canned goods,0.945602,0.968,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_009.jpg,canned goods,canned goods,0.963302,0.974,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_010.jpg,canned goods,canned goods,0.975016,1.032,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_011.jpg,canned goods,canned goods,0.986188,1.046,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_012.jpg,canned goods,canned goods,0.992432,0.926,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_013.jpg,canned goods,canned goods,0.929912,0.928,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_014.jpg,canned goods,canned goods,0.956465,0.983,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_015.jpg,canned goods,canned goods,0.974348,1.201,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_016.jpg,canned goods,canned goods,0.979687,0.913,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_017.jpg,canned goods,canned goods,0.981783,1.008,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_018.jpg,canned goods,canned goods,0.963431,1.541,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_019.jpg,canned goods,canned goods,0.984018,1.069,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_020.jpg,canned goods,canned goods,0.986408,0.984,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_021.jpg,canned goods,canned goods,0.974228,0.924,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_022.jpg,canned goods,canned goods,0.966965,0.977,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_023.jpg,canned goods,canned goods,0.951605,1.393,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_024.jpg,canned goods,canned goods,0.934790,1.044,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_025.jpg,canned goods,canned goods,0.854410,0.935,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_026.jpg,canned goods,canned goods,0.950458,0.941,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_027.jpg,canned goods,canned goods,0.947164,1.101,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_028.jpg,canned goods,canned goods,0.948332,0.970,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_029.jpg,canned goods,canned goods,0.957823,0.931,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_030.jpg,canned goods,canned goods,0.964917,0.993,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_031.jpg,canned goods,canned goods,0.904227,1.225,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_032.jpg,canned goods,canned goods,0.808238,0.945,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_033.jpg,canned goods,canned goods,0.897115,1.180,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_034.jpg,canned goods,canned goods,0.838126,1.027,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_035.jpg,canned goods,canned goods,0.980523,1.091,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_036.jpg,canned goods,canned goods,0.982476,0.971,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_037.jpg,canned goods,canned goods,0.981915,0.947,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_038.jpg,canned goods,canned goods,0.993180,0.933,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_039.jpg,canned goods,canned goods,0.945516,1.229,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_040.jpg,canned goods,canned goods,0.943161,0.969,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_041.jpg,canned goods,canned goods,0.983743,0.946,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_042.jpg,canned goods,canned goods,0.991199,0.934,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_043.jpg,canned goods,canned goods,0.959470,1.008,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_044.jpg,canned goods,canned goods,0.918554,1.350,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_045.jpg,canned goods,canned goods,0.960540,1.074,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_046.jpg,canned goods,canned goods,0.919023,0.961,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_047.jpg,canned goods,canned goods,0.846375,0.993,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_048.jpg,canned goods,canned goods,0.967611,1.293,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_049.jpg,canned goods,canned goods,0.940360,1.001,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_050.jpg,canned goods,canned goods,0.935232,1.010,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_051.jpg,canned goods,canned goods,0.973842,1.152,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_052.jpg,canned goods,canned goods,0.971387,1.213,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_053.jpg,canned goods,canned goods,0.905666,0.968,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_054.jpg,canned goods,canned goods,0.944654,0.955,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_055.jpg,canned goods,canned goods,0.993175,0.989,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_056.jpg,canned goods,canned goods,0.980733,1.611,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_057.jpg,canned goods,canned goods,0.976169,0.943,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_058.jpg,canned goods,canned goods,0.975041,0.945,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_059.jpg,canned goods,canned goods,0.983286,1.039,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_060.jpg,canned goods,canned goods,0.967892,1.074,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_061.jpg,canned goods,canned goods,0.980817,0.909,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_062.jpg,canned goods,canned goods,0.979601,0.929,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_063.jpg,canned goods,canned goods,0.960857,0.925,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_064.jpg,canned goods,canned goods,0.928751,1.180,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_065.jpg,canned goods,canned goods,0.946793,0.933,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_066.jpg,canned goods,canned goods,0.985847,0.942,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_067.jpg,canned goods,canned goods,0.988697,0.919,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_068.jpg,canned goods,canned goods,0.975464,1.161,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_069.jpg,canned goods,canned goods,0.967834,0.945,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_070.jpg,canned goods,canned goods,0.974817,0.945,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_071.jpg,canned goods,canned goods,0.968479,1.010,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_072.jpg,canned goods,canned goods,0.978360,1.131,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_073.jpg,canned goods,canned goods,0.946468,0.912,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_074.jpg,canned goods,canned goods,0.964525,1.083,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_075.jpg,canned goods,canned goods,0.938579,1.109,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_076.jpg,canned goods,canned goods,0.946142,1.083,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_077.jpg,canned goods,canned goods,0.958841,1.014,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_078.jpg,canned goods,canned goods,0.959437,1.082,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_079.jpg,canned goods,canned goods,0.868090,1.130,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_080.jpg,canned goods,canned goods,0.900070,1.081,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_081.jpg,canned goods,canned goods,0.936431,0.964,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_082.jpg,canned goods,canned goods,0.873071,1.016,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_083.jpg,canned goods,canned goods,0.882375,1.639,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_084.jpg,canned goods,canned goods,0.845972,1.162,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_085.jpg,canned goods,canned goods,0.959143,0.979,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_086.jpg,canned goods,canned goods,0.907211,0.924,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_087.jpg,canned goods,canned goods,0.907468,1.110,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_088.jpg,canned goods,canned goods,0.983410,0.963,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_089.jpg,canned goods,canned goods,0.900074,0.963,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_090.jpg,canned goods,canned goods,0.939055,0.930,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_091.jpg,canned goods,canned goods,0.969179,1.361,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_092.jpg,canned goods,canned goods,0.990204,0.949,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_093.jpg,canned goods,canned goods,0.986551,0.916,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_094.jpg,canned goods,canned goods,0.950595,1.015,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_095.jpg,canned goods,canned goods,0.970273,1.409,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_096.jpg,canned goods,canned goods,0.947735,1.032,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_097.jpg,canned goods,canned goods,0.692999,0.972,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_098.jpg,canned goods,canned goods,0.959442,1.116,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_099.jpg,canned goods,canned goods,0.934149,1.338,True
+ml-perception-labs\lab08_finetuning\data\raw\canned goods\canned_goods_100.jpg,canned goods,canned goods,0.920432,2.056,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_001.jpg,combo,combo,0.613008,1.021,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_002.jpg,combo,combo,0.792297,3.993,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_003.jpg,combo,combo,0.762917,1.212,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_004.jpg,combo,combo,0.746480,2.014,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_005.jpg,combo,combo,0.806559,1.968,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_006.jpg,combo,combo,0.955154,1.148,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_007.jpg,combo,combo,0.972234,2.085,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_008.jpg,combo,combo,0.882123,1.373,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_009.jpg,combo,combo,0.678390,1.595,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_010.jpg,combo,combo,0.942887,1.798,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_011.jpg,combo,combo,0.891899,1.126,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_012.jpg,combo,combo,0.946530,1.412,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_013.jpg,combo,combo,0.976172,1.363,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_014.jpg,combo,combo,0.985615,1.076,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_015.jpg,combo,Noodles,0.571084,0.951,False
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_016.jpg,combo,canned goods,0.669214,1.004,False
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_017.jpg,combo,combo,0.891608,0.992,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_018.jpg,combo,combo,0.889544,1.358,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_019.jpg,combo,combo,0.992610,1.292,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_020.jpg,combo,combo,0.985464,1.273,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_021.jpg,combo,combo,0.971696,1.094,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_022.jpg,combo,combo,0.936723,0.992,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_023.jpg,combo,combo,0.826092,0.972,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_024.jpg,combo,combo,0.871552,1.094,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_025.jpg,combo,combo,0.797742,0.967,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_026.jpg,combo,combo,0.968467,0.972,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_027.jpg,combo,combo,0.927525,0.943,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_028.jpg,combo,combo,0.958556,1.174,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_029.jpg,combo,combo,0.839382,1.439,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_030.jpg,combo,combo,0.967074,1.025,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_031.jpg,combo,combo,0.957187,0.958,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_032.jpg,combo,combo,0.981532,0.988,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_033.jpg,combo,combo,0.895775,1.436,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_034.jpg,combo,combo,0.931576,1.487,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_035.jpg,combo,combo,0.904175,0.952,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_036.jpg,combo,combo,0.861037,0.919,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_037.jpg,combo,combo,0.894095,1.165,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_038.jpg,combo,combo,0.613008,1.466,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_039.jpg,combo,combo,0.792297,1.020,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_040.jpg,combo,combo,0.762917,0.976,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_041.jpg,combo,combo,0.746480,1.356,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_042.jpg,combo,combo,0.806559,1.085,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_043.jpg,combo,combo,0.955154,0.995,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_044.jpg,combo,combo,0.972234,0.937,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_045.jpg,combo,combo,0.882123,1.271,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_046.jpg,combo,combo,0.678390,1.057,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_047.jpg,combo,combo,0.942887,0.963,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_048.jpg,combo,combo,0.891899,0.973,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_049.jpg,combo,combo,0.946530,1.030,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_050.jpg,combo,combo,0.976172,1.182,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_051.jpg,combo,combo,0.749952,0.976,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_052.jpg,combo,combo,0.878518,0.937,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_053.jpg,combo,combo,0.935139,1.110,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_054.jpg,combo,combo,0.796845,1.304,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_055.jpg,combo,combo,0.857492,1.122,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_056.jpg,combo,combo,0.982424,1.032,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_057.jpg,combo,combo,0.909943,1.117,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_058.jpg,combo,combo,0.919602,1.153,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_059.jpg,combo,combo,0.898515,0.957,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_060.jpg,combo,combo,0.976008,0.970,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_061.jpg,combo,combo,0.818849,1.082,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_062.jpg,combo,combo,0.964691,1.126,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_063.jpg,combo,combo,0.962233,0.962,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_064.jpg,combo,combo,0.962116,1.064,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_065.jpg,combo,Noodles,0.352661,1.238,False
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_066.jpg,combo,canned goods,0.653667,0.949,False
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_067.jpg,combo,combo,0.858319,0.978,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_068.jpg,combo,combo,0.786570,0.923,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_069.jpg,combo,combo,0.985895,1.337,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_070.jpg,combo,combo,0.985312,1.027,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_071.jpg,combo,combo,0.970184,1.084,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_072.jpg,combo,combo,0.929098,1.063,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_073.jpg,combo,combo,0.965282,1.087,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_074.jpg,combo,combo,0.946784,0.982,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_075.jpg,combo,combo,0.708140,0.921,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_076.jpg,combo,combo,0.960257,1.337,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_077.jpg,combo,combo,0.959788,1.057,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_078.jpg,combo,combo,0.978886,1.023,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_079.jpg,combo,combo,0.935186,0.928,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_080.jpg,combo,combo,0.992927,0.995,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_081.jpg,combo,combo,0.959884,1.237,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_082.jpg,combo,combo,0.974568,0.938,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_083.jpg,combo,combo,0.903407,0.909,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_084.jpg,combo,combo,0.810552,0.920,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_085.jpg,combo,combo,0.843336,1.190,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_086.jpg,combo,combo,0.897353,1.247,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_087.jpg,combo,combo,0.965827,0.952,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_088.jpg,combo,combo,0.749952,1.543,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_089.jpg,combo,combo,0.878518,1.620,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_090.jpg,combo,combo,0.935139,1.098,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_091.jpg,combo,combo,0.796845,1.153,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_092.jpg,combo,combo,0.857492,1.062,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_093.jpg,combo,combo,0.982424,1.020,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_094.jpg,combo,combo,0.909943,0.965,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_095.jpg,combo,combo,0.919602,1.446,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_096.jpg,combo,combo,0.898515,1.040,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_097.jpg,combo,combo,0.976008,1.094,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_098.jpg,combo,combo,0.818849,0.969,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_099.jpg,combo,combo,0.964691,0.921,True
+ml-perception-labs\lab08_finetuning\data\raw\combo\combo_100.jpg,combo,combo,0.962233,2.062,True

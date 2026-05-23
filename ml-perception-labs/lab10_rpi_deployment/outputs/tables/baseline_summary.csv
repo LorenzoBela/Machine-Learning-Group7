@@ -1,0 +1,2 @@
+model,input_size,test_accuracy,macro_f1,weak_classes,best_class
+MobileNetV2_m1_t3 TFLite baseline,64,0.72,0.7269,bottled water and combo,canned goods

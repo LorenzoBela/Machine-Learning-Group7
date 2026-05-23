@@ -1,0 +1,68 @@
+[
+  {
+    "scenario": "baseline",
+    "accuracy": 0.96,
+    "macro_f1": 0.9660408163265306,
+    "worst_class_recall": 0.8518518518518519,
+    "recall_Noodles": 1.0,
+    "recall_Rice": 1.0,
+    "recall_bottled water": 0.8518518518518519,
+    "recall_canned goods": 1.0,
+    "recall_combo": 1.0
+  },
+  {
+    "scenario": "center_crop_80",
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "worst_class_recall": 1.0,
+    "recall_Noodles": 1.0,
+    "recall_Rice": 1.0,
+    "recall_bottled water": 1.0,
+    "recall_canned goods": 1.0,
+    "recall_combo": 1.0
+  },
+  {
+    "scenario": "brighter",
+    "accuracy": 0.93,
+    "macro_f1": 0.9348551000579091,
+    "worst_class_recall": 0.7407407407407407,
+    "recall_Noodles": 1.0,
+    "recall_Rice": 1.0,
+    "recall_bottled water": 0.7407407407407407,
+    "recall_canned goods": 1.0,
+    "recall_combo": 1.0
+  },
+  {
+    "scenario": "darker",
+    "accuracy": 0.99,
+    "macro_f1": 0.9919710959454033,
+    "worst_class_recall": 0.9629629629629629,
+    "recall_Noodles": 1.0,
+    "recall_Rice": 1.0,
+    "recall_bottled water": 0.9629629629629629,
+    "recall_canned goods": 1.0,
+    "recall_combo": 1.0
+  },
+  {
+    "scenario": "low_contrast",
+    "accuracy": 0.97,
+    "macro_f1": 0.974187675070028,
+    "worst_class_recall": 0.8888888888888888,
+    "recall_Noodles": 1.0,
+    "recall_Rice": 1.0,
+    "recall_bottled water": 0.8888888888888888,
+    "recall_canned goods": 1.0,
+    "recall_combo": 1.0
+  },
+  {
+    "scenario": "blur",
+    "accuracy": 0.97,
+    "macro_f1": 0.974187675070028,
+    "worst_class_recall": 0.8888888888888888,
+    "recall_Noodles": 1.0,
+    "recall_Rice": 1.0,
+    "recall_bottled water": 0.8888888888888888,
+    "recall_canned goods": 1.0,
+    "recall_combo": 1.0
+  }
+]

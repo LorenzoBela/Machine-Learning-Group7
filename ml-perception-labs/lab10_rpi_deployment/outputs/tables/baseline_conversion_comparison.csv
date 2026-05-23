@@ -1,0 +1,6 @@
+Metric,Original Model (Lab 8),Converted TFLite Model
+Model file size (MB),8.75,8.47
+Primary task metric (accuracy),72.00%,72.00%
+Max absolute output error vs. original,0.000000,0.000014
+Prediction agreement rate (%),100.00% original reference,100.00%
+Mean inference latency (ms / sample),5.4222,1.3041
