@@ -1,0 +1,7 @@
+Input size: 640x640 RGB
+Model: YOLOv8n object detection
+Input tensor: NHWC float32, shape (1, 640, 640, 3)
+Resize: letterbox resize preserving aspect ratio
+Color order: RGB
+Scale: uint8 pixels to [0, 1]
+No mean/std normalization (YOLOv8 uses 0-1 scaling only)

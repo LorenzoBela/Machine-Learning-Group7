@@ -1,0 +1,215 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation [ref=e3]:
+      - link "S S-Pay." [ref=e4] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e5]: S
+        - generic [ref=e6]: S-Pay.
+      - generic [ref=e7]:
+        - link "Interface" [ref=e8] [cursor=pointer]:
+          - /url: "#preview"
+          - generic [ref=e9]: Interface
+        - link "Capabilities" [ref=e10] [cursor=pointer]:
+          - /url: "#features"
+          - generic [ref=e11]: Capabilities
+        - link "Onboarding" [ref=e12] [cursor=pointer]:
+          - /url: "#process"
+          - generic [ref=e13]: Onboarding
+        - link "FAQ" [ref=e14] [cursor=pointer]:
+          - /url: "#faq"
+          - generic [ref=e15]: FAQ
+      - button "Sign In" [ref=e17] [cursor=pointer]
+    - banner [ref=e18]:
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - img [ref=e24]
+              - generic [ref=e27]: Shopee SPayLater Tracker
+            - heading "Tame your Shopee Installments." [level=1] [ref=e29]:
+              - text: Tame your
+              - text: Shopee Installments.
+            - paragraph [ref=e30]: Stop guessing your SPayLater monthly dues. Track your active credit caps, plan upcoming payments, and structure your amortizations under one simple dashboard.
+          - generic [ref=e31]:
+            - generic [ref=e32]:
+              - generic [ref=e33]: ₱8,609
+              - generic [ref=e34]: Active Dues Tracked
+            - generic [ref=e35]:
+              - generic [ref=e36]: 5+
+              - generic [ref=e37]: Smart Shoppers
+            - generic [ref=e38]:
+              - generic [ref=e39]: 96%
+              - generic [ref=e40]: On-Time Repayments
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - heading "Get Started" [level=3] [ref=e47]
+            - paragraph [ref=e48]: Authorize securely with your Google account. No setup delay or passwords required.
+          - button "Sign In with Google" [ref=e50] [cursor=pointer]:
+            - img [ref=e51]
+            - text: Sign In with Google
+          - generic [ref=e56]:
+            - img [ref=e57]
+            - generic [ref=e59]: Secure OAuth Callback • Supabase Auth
+      - generic:
+        - generic:
+          - generic: Scroll to explore
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - generic [ref=e63]: Visual Purchase Planner
+        - heading "Installment Planning Simulator" [level=2] [ref=e64]
+        - paragraph [ref=e65]: Input your upcoming purchases, select your monthly terms, and visualize the impact on your credit balance instantly.
+      - generic [ref=e67]:
+        - generic [ref=e72]: spay.inc/planner/purchase
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - generic [ref=e75]:
+              - generic [ref=e76]:
+                - generic [ref=e79]: Purchase Planner
+                - generic [ref=e80]: Simulator
+              - generic [ref=e81]:
+                - generic [ref=e82]:
+                  - text: Item Name
+                  - generic [ref=e83]: iPhone 15 Pro Max
+                - generic [ref=e85]:
+                  - generic [ref=e86]: Total Cost
+                  - generic [ref=e87]: ₱54,000.00
+                - generic [ref=e91]:
+                  - text: Amortization Period
+                  - generic [ref=e92]:
+                    - generic [ref=e93]: 3 Mos
+                    - generic [ref=e94]: 6 Mos
+                    - generic [ref=e95]: 12 Mos
+            - generic [ref=e96]:
+              - generic [ref=e97]:
+                - generic [ref=e98]: Planned Payout
+                - generic [ref=e99]: ₱4,500.00/mo
+              - generic [ref=e102]: Fits within SPayLater limit
+          - generic [ref=e103]:
+            - generic [ref=e104]:
+              - generic [ref=e106]:
+                - generic [ref=e107]: Available Credit
+                - img [ref=e108]
+              - generic [ref=e111]:
+                - generic [ref=e112]: ₱45,500.00
+                - generic [ref=e113]: "Limit: ₱60,000.00"
+            - generic [ref=e116]:
+              - generic [ref=e117]:
+                - generic [ref=e118]: Upcoming Due Amortizations
+                - generic [ref=e119] [cursor=pointer]:
+                  - text: Manage payments
+                  - img [ref=e120]
+              - generic [ref=e123]:
+                - generic [ref=e124]:
+                  - generic [ref=e126]:
+                    - generic [ref=e127]: iPhone 15 Pro Max
+                    - generic [ref=e128]: Due in 5 days • Month 2 of 12
+                  - generic [ref=e129]:
+                    - generic [ref=e130]: ₱4,500.00
+                    - generic [ref=e131]: Active
+                - generic [ref=e132]:
+                  - generic [ref=e133]:
+                    - generic [ref=e134]: AirPods Pro 2
+                    - generic [ref=e135]: Due in 15 days • Month 3 of 3
+                  - generic [ref=e136]:
+                    - generic [ref=e137]: ₱5,000.00
+                    - generic [ref=e138]: Active
+    - generic [ref=e140]:
+      - generic [ref=e141]:
+        - generic [ref=e143]: Fine-tuned tracking engine
+        - heading "Fine-tuned Control" [level=2] [ref=e144]
+        - paragraph [ref=e145]: Capabilities built from the ground up to return structured control over installment budgeting.
+      - generic [ref=e146]:
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - generic [ref=e150]: // CAPABILITY_01
+              - img [ref=e152]
+            - generic [ref=e155]:
+              - heading "Limits & Credit Usage" [level=4] [ref=e156]
+              - paragraph [ref=e157]: Real-time indicators showing active credits against credit caps, highlighting available balances.
+          - generic [ref=e160]: Computed live
+        - generic [ref=e161]:
+          - generic [ref=e162]:
+            - generic [ref=e163]:
+              - generic [ref=e164]: // CAPABILITY_02
+              - img [ref=e166]
+            - generic [ref=e168]:
+              - heading "Calendar Heatmaps" [level=4] [ref=e169]
+              - paragraph [ref=e170]: Staggered timeline heatmaps plotting upcoming payment schedules across calendar months.
+          - generic [ref=e173]: Aggregated ledger
+        - generic [ref=e174]:
+          - generic [ref=e175]:
+            - generic [ref=e176]:
+              - generic [ref=e177]: // CAPABILITY_03
+              - img [ref=e179]
+            - generic [ref=e182]:
+              - heading "NootAI Assistance" [level=4] [ref=e183]
+              - paragraph [ref=e184]: A built-in conversational AI assistant to query upcoming installments, set reminders, and fetch tips.
+          - generic [ref=e187]: NootAI dynamic handler
+    - generic [ref=e189]:
+      - generic [ref=e190]:
+        - generic [ref=e192]: Onboarding flow
+        - heading "How S-Pay works" [level=2] [ref=e193]
+        - paragraph [ref=e194]: Get started in minutes with our structured ledger initialization flow.
+      - generic [ref=e195]:
+        - generic [ref=e197]:
+          - generic [ref=e198]:
+            - generic [ref=e199]: // STAGE_01 // SECURE_AUTH
+            - generic [ref=e200]: INIT_01
+          - generic [ref=e201]:
+            - heading "Connect Securely" [level=4] [ref=e202]
+            - paragraph [ref=e203]: Log in with your Google account. Supabase OAuth securely registers your session without password requirements.
+        - generic [ref=e205]:
+          - generic [ref=e206]:
+            - generic [ref=e207]: // STAGE_02 // LEDGER_DIST
+            - generic [ref=e208]: INIT_02
+          - generic [ref=e209]:
+            - heading "Add Installments" [level=4] [ref=e210]
+            - paragraph [ref=e211]: Input purchase amount and terms. The calendar engine automatically distributes amortizations.
+        - generic [ref=e213]:
+          - generic [ref=e214]:
+            - generic [ref=e215]: // STAGE_03 // PUSH_DISPATCH
+            - generic [ref=e216]: INIT_03
+          - generic [ref=e217]:
+            - heading "Receive Alerts" [level=4] [ref=e218]
+            - paragraph [ref=e219]: Get intelligent dashboard notifications and PWA reminders before payments are due.
+    - generic [ref=e221]:
+      - generic [ref=e222]:
+        - text: // QUERY_INDEX
+        - heading "Frequently Asked Questions" [level=2] [ref=e223]
+        - paragraph [ref=e224]: Find answers to common queries about amortization tracking.
+      - generic [ref=e225]:
+        - generic [ref=e226]:
+          - button "How does S-Pay track my credit limits?" [ref=e227] [cursor=pointer]:
+            - generic [ref=e228]: How does S-Pay track my credit limits?
+            - img [ref=e229]
+          - paragraph [ref=e231]: S-Pay works on a manual-tracking paradigm. You register your purchase amount and the number of installment months. The system automatically computes monthly amortization distributions and subtracts unpaid amounts from your credit cap to keep you fully aware of credit utilization.
+        - generic [ref=e232]:
+          - button "Do I need to share my Shopee account password?" [ref=e233] [cursor=pointer]:
+            - generic [ref=e234]: Do I need to share my Shopee account password?
+            - img [ref=e235]
+          - paragraph [ref=e237]: Absolutely not. S-Pay is entirely independent. We prioritize security and privacy by avoiding any direct scraping integrations. You simply enter installment terms manually or query your AI companion to update records.
+        - generic [ref=e238]:
+          - button "What is the NootAI assistant?" [ref=e239] [cursor=pointer]:
+            - generic [ref=e240]: What is the NootAI assistant?
+            - img [ref=e241]
+          - paragraph [ref=e243]: NootAI is your built-in financial assistant. Accessible directly from your client portal, you can ask it questions about upcoming bills, category budgets, or request suggestions to keep your amortization schedules optimized.
+        - generic [ref=e244]:
+          - button "Is there a role option for administrator access?" [ref=e245] [cursor=pointer]:
+            - generic [ref=e246]: Is there a role option for administrator access?
+            - img [ref=e247]
+          - paragraph [ref=e249]: Yes. If your database profile has been granted ADMIN privileges, logging in with Google will automatically route you to a secure role-selection view. From there, you can choose to enter either the Admin console or your personal Customer portal.
+    - generic [ref=e251]:
+      - generic [ref=e252]:
+        - heading "Manage your amortizations." [level=2] [ref=e253]
+        - paragraph [ref=e254]: Take full control of your credit limits and installment agreements today. Set up in less than a minute.
+      - button "Sign In with Google" [ref=e255] [cursor=pointer]:
+        - img [ref=e256]
+        - text: Sign In with Google
+    - contentinfo [ref=e261]:
+      - generic [ref=e262]:
+        - generic [ref=e265]: S-Pay System v3.0.0
+        - generic [ref=e266]: © 2026 S-Pay Inc. All rights reserved.
+  - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=e272] [cursor=pointer]:
+    - img [ref=e273]

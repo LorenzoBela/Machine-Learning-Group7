@@ -1,0 +1,7 @@
+path: C:/Users/Lorenzo Bela/Downloads/Elective Machine Learning/ml-perception-labs/lab10_rpi_object_detection/yolo_dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 4
+names: ['Bottled Water', 'Noodles', 'canned-goods', 'rice']
