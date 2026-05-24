@@ -50,7 +50,7 @@ DEBUG_RAW_PATH = Path("debug_raw.jpg")
 DEBUG_CROP_PATH = Path("debug_crop.jpg")
 
 BUTTON_PIN = 17
-LED_PINS = [4, 5, 6, 12]
+LED_PINS = [6, 4, 12, 5]
 DISPLAY_INTERVAL = 4.0
 CONF_THRESHOLD = 0.25
 NMS_THRESHOLD = 0.45
