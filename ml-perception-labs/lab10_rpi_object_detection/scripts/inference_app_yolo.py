@@ -5,7 +5,6 @@ from pathlib import Path
 import cv2
 import numpy as np
 
-# ── GPIO Zero Mocking for Dev Machines ──────────────────────────────────────
 try:
     from gpiozero import Button, LED
     USING_GPIO = True
@@ -35,7 +34,6 @@ except (ImportError, OSError):
         def close(self):
             pass
 
-# ── TFLite Interpreter Import ────────────────────────────────────────────────
 try:
     from tflite_runtime.interpreter import Interpreter
 except ImportError:
@@ -44,7 +42,6 @@ except ImportError:
     except ImportError:
         raise ImportError("Could not import TFLite Interpreter. Install tflite-runtime or tensorflow.")
 
-# Paths
 DEPLOYMENT_DIR = Path(__file__).resolve().parent.parent / "deployment_package"
 MODEL_PATH = DEPLOYMENT_DIR / "model.tflite"
 LABELS_PATH = DEPLOYMENT_DIR / "labels.txt"
@@ -52,9 +49,8 @@ PREPROCESSING_PATH = DEPLOYMENT_DIR / "preprocessing.txt"
 DEBUG_RAW_PATH = Path("debug_raw.jpg")
 DEBUG_CROP_PATH = Path("debug_crop.jpg")
 
-# Pins & Hyperparameters
 BUTTON_PIN = 17
-LED_PINS = [4, 5, 6, 12]  # 4 pins for 4 classes
+LED_PINS = [4, 5, 6, 12]
 DISPLAY_INTERVAL = 4.0
 CONF_THRESHOLD = 0.25
 NMS_THRESHOLD = 0.45
@@ -67,15 +63,13 @@ def load_labels(path: Path) -> list[str]:
 
 
 def letterbox_resize(image: np.ndarray, target_size: int = 640) -> tuple[np.ndarray, float, tuple[int, int]]:
-    """Resize image preserving aspect ratio with padding (letterboxing)."""
     h, w = image.shape[:2]
     scale = target_size / max(h, w)
     new_w, new_h = int(w * scale), int(h * scale)
     
     resized = cv2.resize(image, (new_w, new_h), interpolation=cv2.INTER_LINEAR)
     
-    # Create canvas and copy resized image to center
-    canvas = np.full((target_size, target_size, 3), 114, dtype=np.uint8)  # 114 is YOLO standard padding color
+    canvas = np.full((target_size, target_size, 3), 114, dtype=np.uint8)
     dx = (target_size - new_w) // 2
     dy = (target_size - new_h) // 2
     canvas[dy:dy+new_h, dx:dx+new_w] = resized
@@ -84,10 +78,9 @@ def letterbox_resize(image: np.ndarray, target_size: int = 640) -> tuple[np.ndar
 
 
 def preprocess_frame(frame_bgr: np.ndarray, target_size: int = 640) -> tuple[np.ndarray, float, tuple[int, int]]:
-    """Prepare frame for YOLOv8 TFLite model."""
     rgb = cv2.cvtColor(frame_bgr, cv2.COLOR_BGR2RGB)
     canvas, scale, pad = letterbox_resize(rgb, target_size)
-    image = canvas.astype(np.float32) / 255.0  # Scale to [0, 1]
+    image = canvas.astype(np.float32) / 255.0
     return np.expand_dims(image, axis=0).astype(np.float32), scale, pad
 
 
@@ -102,7 +95,6 @@ def capture_frame() -> np.ndarray | None:
         print("Error: could not open USB webcam.")
         return None
     
-    # Warm up camera
     for _ in range(5):
         cap.read()
     ok, frame = cap.read()
@@ -111,15 +103,8 @@ def capture_frame() -> np.ndarray | None:
 
 
 def postprocess_yolov8(output: np.ndarray, scale: float, pad: tuple[int, int], orig_shape: tuple[int, int]) -> list[tuple[int, float, list[int]]]:
-    """
-    Parse YOLOv8 TFLite output shape [1, 4 + num_classes, 8400] and perform NMS.
-    Returns list of (class_id, confidence, [x1, y1, x2, y2])
-    """
-    # Remove batch dim: shape becomes [8, 8400] (for 4 classes)
     output = np.squeeze(output)
-    
-    # Transpose to [8400, 8] for easier iteration
-    output = output.T  # shape [8400, 8]
+    output = output.T
     
     boxes = []
     confidences = []
@@ -129,27 +114,20 @@ def postprocess_yolov8(output: np.ndarray, scale: float, pad: tuple[int, int], o
     pad_x, pad_y = pad
     
     for row in output:
-        # Extract class confidence scores
         scores = row[4:]
         class_id = np.argmax(scores)
         confidence = scores[class_id]
         
         if confidence > CONF_THRESHOLD:
-            # Box coords are center_x, center_y, width, height (normalized to input size, i.e. 640)
             cx, cy, w, h = row[0:4]
-            
-            # Map box coordinates from letterboxed 640x640 back to original image coordinates
-            # Step 1: Remove padding
             cx_unpad = cx - pad_x
             cy_unpad = cy - pad_y
             
-            # Step 2: Divide by scale factor
             x1 = int((cx_unpad - w / 2) / scale)
             y1 = int((cy_unpad - h / 2) / scale)
             w_orig = int(w / scale)
             h_orig = int(h / scale)
             
-            # Clip coordinates to image boundary
             x1 = max(0, min(x1, orig_w - 1))
             y1 = max(0, min(y1, orig_h - 1))
             w_orig = max(1, min(w_orig, orig_w - x1))
@@ -159,12 +137,10 @@ def postprocess_yolov8(output: np.ndarray, scale: float, pad: tuple[int, int], o
             confidences.append(float(confidence))
             class_ids.append(int(class_id))
             
-    # Apply Non-Maximum Suppression (NMS)
     indices = cv2.dnn.NMSBoxes(boxes, confidences, CONF_THRESHOLD, NMS_THRESHOLD)
     
     results = []
     if len(indices) > 0:
-        # OpenCV NMSBoxes returns flat list or 2D list depending on version
         indices = np.array(indices).flatten()
         for idx in indices:
             results.append((class_ids[idx], confidences[idx], boxes[idx]))
@@ -185,14 +161,13 @@ def main() -> None:
     input_details = interpreter.get_input_details()
     output_details = interpreter.get_output_details()
 
-    input_shape = input_details[0]['shape']  # [1, 640, 640, 3] or [1, 3, 640, 640]
+    input_shape = input_details[0]['shape']
     img_size = input_shape[1] if input_shape[1] != 1 and input_shape[1] != 3 else input_shape[2]
 
     print(f"Loaded labels: {labels}")
     print(f"Model Input Shape: {input_shape}")
     print(f"Model Output Shape: {output_details[0]['shape']}")
 
-    # Warm-up inference
     dummy = np.zeros(input_shape, dtype=np.float32)
     interpreter.set_tensor(input_details[0]["index"], dummy)
     interpreter.invoke()
@@ -217,28 +192,22 @@ def main() -> None:
 
             orig_h, orig_w = frame.shape[:2]
             
-            # Preprocess
             input_tensor, scale, pad = preprocess_frame(frame, target_size=img_size)
             
-            # If the model expects NCHW format (e.g. transpose from NHWC)
-            if input_shape[1] == 3:  # NCHW
+            if input_shape[1] == 3:
                 input_tensor = np.transpose(input_tensor, (0, 3, 1, 2))
                 
             interpreter.set_tensor(input_details[0]["index"], input_tensor)
             
-            # Inference
             start_infer = time.perf_counter()
             interpreter.invoke()
             infer_ms = (time.perf_counter() - start_infer) * 1000.0
             
-            # Extract raw output
             raw_output = interpreter.get_tensor(output_details[0]["index"])
             
-            # Postprocess (NMS)
             detections = postprocess_yolov8(raw_output, scale, pad, (orig_h, orig_w))
             total_ms = (time.perf_counter() - start_total) * 1000.0
 
-            # Determine unique active classes
             active_class_ids = set()
             print("\nDetections:")
             if not detections:
@@ -249,7 +218,6 @@ def main() -> None:
                     label = labels[class_id]
                     print(f"  - {label}: conf={conf:.2f}, box={box}")
 
-            # Turn off all LEDs first, then turn on only the active ones
             turn_all_off(leds)
             for class_id in active_class_ids:
                 leds[class_id].on()
@@ -257,10 +225,8 @@ def main() -> None:
             print(f"\nInference: {infer_ms:.2f} ms | End-to-end: {total_ms:.2f} ms")
             print("Displaying results on LEDs...")
             
-            # Save debug images
             cv2.imwrite(str(DEBUG_RAW_PATH), frame)
             
-            # Draw boxes on debug crop
             annotated_frame = frame.copy()
             for class_id, conf, box in detections:
                 x1, y1, w_box, h_box = box
